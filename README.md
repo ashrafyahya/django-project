@@ -2,7 +2,7 @@
 
 Ein einfaches Bibliothekverwaltungssystem mit Buchkatalog, Buchungslogik und Benutzeranmeldung.
 
-## 🚀 Projektübersicht
+## Projektübersicht
 
 - Django-Projekt: `bibliotheksystem`
 - App: `library`
@@ -11,7 +11,7 @@ Ein einfaches Bibliothekverwaltungssystem mit Buchkatalog, Buchungslogik und Ben
 - Buchstatus: gebucht, storniert, ausgeliehen, zurückgegeben
 - Benutzer: einfache Anmeldung über Django Auth
 
-## ✨ Features
+## Features
 
 - Kategorieverwaltung (Admin)
 - Buchkatalog anzeigen
